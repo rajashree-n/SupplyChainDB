@@ -45,7 +45,7 @@ BEGIN
     CALL check_zip(new.CUST_ZIP);
 END$   
 DELIMITER ; 
--- drop trigger customer_zip_before_insert;
+-- drop trigger customer_zip_before_insert;check_approval_status
 
 -- Supplier Table
 DELIMITER $
