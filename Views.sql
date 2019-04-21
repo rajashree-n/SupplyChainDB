@@ -62,7 +62,7 @@ CREATE VIEW EVALUATION_STATS_EMPLOYEE AS
 					GROUP BY APP_EMP_ID, EMP_NAME
 			) T ON A.APP_EMP_ID = T.APP_EMP_ID
 			ORDER BY AVG_EVALUATION_TIME;
-            
+
 -- ----------------------------------------------------------------------------
 -- VIEW APPROVAL_WITH_SUPPLIER
 CREATE VIEW APPROVAL_WITH_SUPPLIER AS
