@@ -1,3 +1,4 @@
+USE SUPPLYCHAINDB;
 -- ----------------------------------------------------------------------------------------------------------------
 -- FUNCTION TO GENERATE ADDRESS OF THE CUSTOMER
 ALTER TABLE CUSTOMER

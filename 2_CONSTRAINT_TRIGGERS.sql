@@ -1,3 +1,4 @@
+USE SUPPLYCHAINDB;
 -- Check constraints for Region
 DELIMITER $
 CREATE PROCEDURE `check_region`(IN CUST_REGION VARCHAR(50))

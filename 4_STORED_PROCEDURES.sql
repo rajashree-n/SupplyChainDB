@@ -1,3 +1,5 @@
+USE SUPPLYCHAINDB;
+
 -- ----------------------------------------------------------------------------------------------------------------
 DELIMITER //
 -- STORED PROCEDURE FOR JOIN OF SUPPLIER, EMPLOYEE AND APPROVAL_DETAILS

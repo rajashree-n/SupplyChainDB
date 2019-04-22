@@ -1,4 +1,4 @@
-USE SupplyChainDB;
+USE SUPPLYCHAINDB;
 -- ----------------------------------------------------------------------------------------------------------------
 -- INSERT TEST DATA INTO 'CUSTOMER' 
 INSERT INTO CUSTOMER
